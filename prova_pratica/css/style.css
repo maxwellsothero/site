@@ -1,4 +1,9 @@
-
+body{
+    font-family: 'Roboto', sans-serif !important;
+}
+.fonte{
+    font-family: 'Roboto', sans-serif !important;
+}
 .laranja{
     background-color:#e87c25 ;
     color: white;
@@ -6,4 +11,32 @@
 
 .bg-azul{
     background-color: #004e71;
+    color: #ffffff;
+}
+
+.bg-azulfraco{
+    background-color: #0077f9;
+    color: #ffffff;
+}
+
+.fh1{
+    color: #094f71;
+}
+.fp{
+    color: #6a95aa;
+}
+
+.btlaranja{
+    width: 250px;
+    
+    background-color: #e87c25;
+    color: #ffffff;
+   
+}
+.sec01{
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.bt_mark{
+    height: 50px;
 }
